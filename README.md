@@ -12,5 +12,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/muktadirkhan889" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muktadirkhan889" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/muktadir-khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="muktadir-khan" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/7873601/muktadir-khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="muktadir-khan" height="20" width="20" /></a>
 </p>
