@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Muktadir</h1>
-<h3 align="center">A passionate developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muktadirkhan889" alt="muktadirkhan889" /> </p>
-
-- 💬 Ask me about **Javascript and Problem Solving**
+1. ❗️ Opened issue [#17](https://github.com//mridulghanshala/LeetRepeet/issues/17) in [mridulghanshala/LeetRepeet](https://github.com//mridulghanshala/LeetRepeet)
+2. ❗️ Opened issue [#6](https://github.com//alok722/devarmy002/issues/6) in [alok722/devarmy002](https://github.com//alok722/devarmy002)
+3. 💪 Opened PR [#2](https://github.com//alok722/devarmy002/pull/2) in [alok722/devarmy002](https://github.com//alok722/devarmy002)
+4. ❌ Closed PR [#1](https://github.com//alok722/devarmy002/pull/1) in [alok722/devarmy002](https://github.com//alok722/devarmy002)
+5. 💪 Opened PR [#1](https://github.com//alok722/devarmy002/pull/1) in [alok722/devarmy002](https://github.com//alok722/devarmy002)
 
 - 📫 How to reach me **muktadirkhan889@gmail.com**
 
