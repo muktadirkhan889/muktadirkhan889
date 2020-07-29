@@ -26,4 +26,4 @@
 5. 💪 Opened PR [#1](https://github.com//alok722/devarmy002/pull/1) in [alok722/devarmy002](https://github.com//alok722/devarmy002)
 <!--END_SECTION:activity-->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=muktadirkhan889&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+<div style="height: 100px; width: 100px;">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=muktadirkhan889&cover_image=true)](https://github.com/kittinan/spotify-github-profile)</div>
