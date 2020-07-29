@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
+ </head>
+<body>
 <h1 align="center">Hi 👋, I'm Muktadir</h1>
 <h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muktadirkhan889" alt="muktadirkhan889" /> </p>
@@ -9,7 +13,7 @@
 - ⚡ Fun fact **Chai over Coffee**
 
 
-
+<i class="devicon-react-original colored"></i>
 <p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muktadirkhan889&show_icons=true" alt="muktadirkhan889" /> </p>
 
 <p align="center">
@@ -28,3 +32,4 @@
 <!--END_SECTION:activity-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=muktadirkhan889&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+</body>
