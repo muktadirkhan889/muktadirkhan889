@@ -11,11 +11,6 @@
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/></p>
 <img src="https://github-readme-stats.vercel.app/api?username=muktadirkhan889&show_icons=true" alt="muktadirkhan889" />
 
-<p align="center">
-<a href="https://linkedin.com/in/muktadirkhan889" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muktadirkhan889" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/7873601/muktadir-khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="muktadir-khan" height="20" width="20" /></a>
-</p>
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -27,3 +22,8 @@
 <!--END_SECTION:activity-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=muktadirkhan889&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+
+<p align="center">
+<a href="https://linkedin.com/in/muktadirkhan889" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muktadirkhan889" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/7873601/muktadir-khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="muktadir-khan" height="20" width="20" /></a>
+</p>
