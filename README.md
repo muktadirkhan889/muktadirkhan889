@@ -21,7 +21,7 @@
 5. 💪 Opened PR [#1](https://github.com//alok722/devarmy002/pull/1) in [alok722/devarmy002](https://github.com//alok722/devarmy002)
 <!--END_SECTION:activity-->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=muktadirkhan889&cover_image=true)]
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=muktadirkhan889&cover_image=true)
 
 <p align="center">
 <a href="https://linkedin.com/in/muktadirkhan889" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muktadirkhan889" height="20" width="20" /></a>
