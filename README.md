@@ -18,7 +18,7 @@
 2. ❗️ Opened issue [#6](https://github.com//alok722/devarmy002/issues/6) in [alok722/devarmy002](https://github.com//alok722/devarmy002)
 3. 💪 Opened PR [#2](https://github.com//alok722/devarmy002/pull/2) in [alok722/devarmy002](https://github.com//alok722/devarmy002)
 4. ❌ Closed PR [#1](https://github.com//alok722/devarmy002/pull/1) in [alok722/devarmy002](https://github.com//alok722/devarmy002)
-5. 💪 Opened PR [#1](https://github.com//alok722/devarmy002/pull/1) in [alok722/devarmy002](https://github.com//alok722/devarmy002)
+5. undefined
 <!--END_SECTION:activity-->
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=muktadirkhan889&cover_image=true)
