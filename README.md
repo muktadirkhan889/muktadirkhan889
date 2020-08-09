@@ -14,6 +14,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#17](https://github.com//mridulghanshala/LeetRepeet/issues/17) in [mridulghanshala/LeetRepeet](https://github.com//mridulghanshala/LeetRepeet)
+<!--END_SECTION:activity-->
 
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=muktadirkhan889&cover_image=true)
