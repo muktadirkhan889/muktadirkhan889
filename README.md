@@ -15,7 +15,6 @@
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=muktadirkhan889&cover_image=true)
 
