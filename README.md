@@ -17,7 +17,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com//mridulghanshala/LeetRepeet/issues/17) in [mridulghanshala/LeetRepeet](https://github.com//mridulghanshala/LeetRepeet)
+1. undefined
 <!--END_SECTION:activity-->
 
 
