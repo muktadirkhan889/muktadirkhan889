@@ -1,28 +1,28 @@
- <head>
-  <link rel="stylesheet" href="styles.css">
-</head> 
-<h1 align="center">Hi 👋, I'm Muktadir</h1>
-<h3 align="center">A passionate developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muktadirkhan889" alt="muktadirkhan889" /> </p>
+1. undefined
+2. undefined
+3. undefined
+4. undefined
+5. undefined
+6. undefined
 
-- 💬 Ask me about **Data Structures and Problem Solving**
+7. undefined
 
-- 📫 How to reach me **muktadirkhan889@gmail.com**
+8. undefined
 
-- ⚡ Fun fact **Chai over Coffee**
+9. undefined
 
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/></p>
-<img src="https://github-readme-stats.vercel.app/api?username=muktadirkhan889&show_icons=true" alt="muktadirkhan889" />
+10. undefined
+11. undefined
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=muktadirkhan889&cover_image=true)
+12. undefined
 
-<p align="center">
-<a href="https://linkedin.com/in/muktadirkhan889" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muktadirkhan889" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/7873601/muktadir-khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="muktadir-khan" height="20" width="20" /></a>
-</p>
-<div class="graph">
-    <ul class="squares">
-      <!-- added via javascript -->
-    </ul>
-  </div>
- <script src="myscripts.js"></script> 
+13. undefined
+14. undefined
+15. undefined
+16. undefined
+17. undefined
+18. undefined
+19. undefined
+20. undefined
+21. undefined
+22. undefined
